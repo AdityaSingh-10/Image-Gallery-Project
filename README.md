@@ -1,3 +1,3 @@
 # Image-Gallery-Project
 <hr>
-<p>Used HTML AND CSS</p>
+<p>Used HTML and CSS</p>
